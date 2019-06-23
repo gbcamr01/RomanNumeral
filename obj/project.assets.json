@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\source\\repos\\RomanNumeral\\RomanNumeral\\RomanNumeral.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\source\\repos\\Roman-Numeral\\RomanNumeral\\RomanNumeral.csproj",
       "projectName": "RomanNumeral",
-      "projectPath": "C:\\Users\\richa\\source\\repos\\RomanNumeral\\RomanNumeral\\RomanNumeral.csproj",
+      "projectPath": "C:\\Users\\richa\\source\\repos\\Roman-Numeral\\RomanNumeral\\RomanNumeral.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\source\\repos\\RomanNumeral\\RomanNumeral\\obj\\",
+      "outputPath": "C:\\Users\\richa\\source\\repos\\Roman-Numeral\\RomanNumeral\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
