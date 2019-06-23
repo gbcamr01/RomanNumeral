@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp2.1\RomanNumeral.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp2.1\RomanNumeral.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp2.1\RomanNumeral.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp2.1\RomanNumeral.AssemblyInfo.cs
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp2.1\RomanNumeral.deps.json
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp2.1\RomanNumeral.runtimeconfig.json
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp2.1\RomanNumeral.runtimeconfig.dev.json
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp2.1\RomanNumeral.dll
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\bin\Debug\netcoreapp2.1\RomanNumeral.pdb
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp2.1\RomanNumeral.dll
+C:\Users\richa\source\repos\RomanNumeral\RomanNumeral\obj\Debug\netcoreapp2.1\RomanNumeral.pdb
