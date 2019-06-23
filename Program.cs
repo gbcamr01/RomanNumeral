@@ -42,8 +42,7 @@ namespace RomanNumeral
 
         public static string Run(string n)
         {
-            var value = 0;
-            if (Int32.TryParse(n, out value))
+            if (Int32.TryParse(n, out int value))
             {
                 if (value == 0) return string.Empty;
                 Console.WriteLine($"{value} {Run(value)}");
@@ -73,8 +72,7 @@ namespace RomanNumeral
             {
                 if (n > multiples)
                 {
-                    int remainder;
-                    int value = Math.DivRem(n, multiples, out remainder);
+                    int value = Math.DivRem(n, multiples, out int remainder);
 
                     var repeatedString = string.Concat(Enumerable.Repeat(numeral[multiples], value));
                     sb.Append(repeatedString);
