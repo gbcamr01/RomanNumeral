@@ -13,7 +13,7 @@ namespace RomanNumeral
             do
             {
                 Console.Write("Enter a integer value (0 will quit!) : ");
-                value = run(Console.ReadLine());
+                value = Run(Console.ReadLine());
 
             }
             while (value != string.Empty);
@@ -40,13 +40,13 @@ namespace RomanNumeral
                 {1000, "M" }
         };
 
-        public static string run(string n)
+        public static string Run(string n)
         {
             var value = 0;
             if (Int32.TryParse(n, out value))
             {
                 if (value == 0) return string.Empty;
-                Console.WriteLine($"{value} {run(value)}");
+                Console.WriteLine($"{value} {Run(value)}");
             }
             else
             {
@@ -55,7 +55,7 @@ namespace RomanNumeral
              return null;
         }
 
-        public static string run(int n)
+        public static string Run(int n)
         {
             /*
             * Some work here; return type and arguments should be according to the problem's requirements
@@ -80,7 +80,7 @@ namespace RomanNumeral
                     sb.Append(repeatedString);
                     n_in_roman_alphabet = sb.ToString();
 
-                    sb.Append(run(remainder));
+                    sb.Append(Run(remainder));
 
                     break;
                 }
